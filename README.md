@@ -47,7 +47,7 @@
 
   > 限流sentinel等
    
-  > [点击进入](https://github.com/mingren135/infos/tree/master/com/tech.md)
+  > [点击进入](https://github.com/mingren135/infos/tree/master/com/tech_doc.md)
   
   
   
