@@ -1,1 +1,2 @@
 - [领先的Web技术教程](http://www.w3school.com.cn/index.html)
+- [JavaScript 标准参考教程-很好赞!](http://javascript.ruanyifeng.com/#introduction)
