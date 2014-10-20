@@ -33,6 +33,12 @@
   > html、javascript、dom
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/study/web.md)
+
+- **hack学习**
+
+  > nfc破卡、web渗透
+   
+  > [点击进入](https://github.com/mingren135/infos/tree/master/study/hack.md)
   
 ### 公司相关
 
