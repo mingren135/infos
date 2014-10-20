@@ -3,6 +3,6 @@
 ------
 - **汽车**
 
-  > tesla电动车 
+  > 充电电池、Tesla、比亚迪
    
-  > [点击进入](https://github.com/mingren135/infos/edit/master/science-technology.htm)
+  > [点击进入](https://github.com/mingren135/infos/tree/master/science/science-technology.md)
