@@ -34,8 +34,14 @@
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/study/web.md)
   
-  
-  
+### 公司相关
+
+------
+- **限流sentinel**
+
+  > 限流
+   
+  > [点击进入](http://gitlab.alibaba-inc.com/middleware-asp/sentinel/wikis/home)
   
   
   
