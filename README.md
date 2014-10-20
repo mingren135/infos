@@ -22,3 +22,22 @@
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/study/python.md)
 
+- **git学习**
+
+  > git基础
+   
+  > [点击进入](https://github.com/mingren135/infos/tree/master/study/git.md)
+  
+- **web学习**
+
+  > html、javascript、dom
+   
+  > [点击进入](https://github.com/mingren135/infos/tree/master/study/web.md)
+  
+  
+  
+  
+  
+  
+  
+  
