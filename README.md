@@ -43,11 +43,11 @@
 ### 公司相关
 
 ------
-- **限流sentinel**
+- **技术文档**
 
-  > 限流
+  > 限流sentinel等
    
-  > [点击进入](http://gitlab.alibaba-inc.com/middleware-asp/sentinel/wikis/home)
+  > [点击进入](https://github.com/mingren135/infos/tree/master/com/tech.md)
   
   
   
