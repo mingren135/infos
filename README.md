@@ -20,5 +20,5 @@
 
   > python基础、模块
    
-  > [点击进入](https://github.com/mingren135/infos/tree/master/science/python.md)
+  > [点击进入](https://github.com/mingren135/infos/tree/master/study/python.md)
 
