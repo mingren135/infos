@@ -6,6 +6,8 @@
 - [预案平台](http://monitor.tmall.com/preplan/preplanList.htm)
 - [鹰眼交易监控](http://eagleeye.taobao.net:9999/RtAppDetail?spm=0.0.0.0.dfiDYt&query=buy:buy&time=&totalTime=3600000#_#tabRtAppDetail_Service)
 - [链路压测简图](http://eagleeye.taobao.net:9999/RtChainDetail?spm=0.0.0.0.mfodTe&chainId=4&time=&totalTime=3600000)
+- [淘宝交易订单数据实时数据](http://core.alibaba-inc.com/v1/policy/panel/taobaobuy.htm)
+
 
 
 
