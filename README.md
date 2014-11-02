@@ -60,7 +60,11 @@
   > 订单查询、退款查询、商品查询等
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/com/tools.md)
-  
 
+- **其它**
+
+  > 好玩的东东，如邮件签名生成器
+   
+  > [点击进入](https://github.com/mingren135/infos/tree/master/com/others.md)
 
 
