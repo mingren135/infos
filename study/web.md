@@ -1,3 +1,4 @@
 - [领先的Web技术教程](http://www.w3school.com.cn/index.html)
 - [JavaScript 标准参考教程-很好赞!](http://javascript.ruanyifeng.com/#introduction)
 - [MaHua,在线markdown编辑器](http://mahua.jser.me/)
+- [jdk下载地址](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
