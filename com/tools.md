@@ -9,7 +9,7 @@
 - [链路压测简图](http://eagleeye.taobao.net:9999/RtChainDetail?spm=0.0.0.0.mfodTe&chainId=4&time=&totalTime=3600000)
 - [淘宝交易订单数据实时数据](http://core.alibaba-inc.com/v1/policy/panel/taobaobuy.htm)
 - [无线秒级大盘](http://core.alibaba-inc.com/v1/location/lamp/taoxiwuxian.htm) 
-
+- [手淘核心应用系统水位展示（QPS,RT,机器数,集群状态）](http://core.alibaba-inc.com/v1/app/capacity/trade.htm?id=26)
 
 
 
