@@ -2,3 +2,4 @@
 - [JavaScript 标准参考教程-很好赞!](http://javascript.ruanyifeng.com/#introduction)
 - [MaHua,在线markdown编辑器](http://mahua.jser.me/)
 - [jdk下载地址](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+- [openJdk源码下载](https://jdk7.java.net/source.html)
