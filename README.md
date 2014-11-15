@@ -45,25 +45,25 @@
 ------
 - **技术文档**
 
-  > 限流sentinel等
+  > 限流等
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/com/tech-doc.md)
   
 - **无线文档**
 
-  > 无线交易、逆向、屏蔽等
+  > 交易等
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/com/wireless-doc.md)
   
 - **常用工具**
 
-  > 订单查询、退款查询、商品查询等
+  > 查询等
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/com/tools.md)
 
 - **其它**
 
-  > 好玩的东东，如邮件签名生成器
+  > 好玩的东东
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/com/others.md)
 
