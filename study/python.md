@@ -1,2 +1,3 @@
 - [分享15个最受欢迎的Python开源框架](http://www.jb51.net/article/52108.htm)
 - [Python教程-廖雪峰官网](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
+- [Groovy入门教程](http://blog.csdn.net/kmyhy/article/details/4200563)
