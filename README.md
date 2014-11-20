@@ -13,6 +13,12 @@
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/science/industry-info.md)
   
+- **爱好**
+
+  > 旅游、体育
+   
+  > [点击进入](https://github.com/mingren135/infos/tree/master/science/hobby.md)
+  
 ### 学习相关
 
 ------
