@@ -1,1 +1,3 @@
 - [悉尼-黄金海岸14日自由行](http://bbs.qyer.com/thread-895450-1.html)
+- [山地车怎么换轮胎](http://jingyan.baidu.com/album/8cdccae9bd6964315413cd93.html?picindex=2)
+- [（转）山地车补胎图解教程](http://tieba.baidu.com/p/1241496662)
