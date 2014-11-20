@@ -4,4 +4,4 @@
 - [Spring MVC 教程,快速入门,深入分析](http://elf8848.iteye.com/blog/875830/)
 - [spring下的开源项目](http://spring.io/docs)
 - [数据库连接池优化与配置](http://benlee.iteye.com/blog/345765)
-
+- [Hibernate3和MyBatis(iBatis)的执行效率比较](http://www.oschina.net/question/72109_15712)
