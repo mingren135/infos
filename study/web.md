@@ -3,3 +3,5 @@
 - [MaHua,在线markdown编辑器](http://mahua.jser.me/)
 - [jdk下载地址](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [openJdk源码下载](https://jdk7.java.net/source.html)
+- [移动开发必备！15款jQuery Mobile插件](http://www.csdn.net/article/2013-11-22/2817596-15-jquery-mobile-plugins-for-mobile-dev)
+
