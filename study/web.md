@@ -7,3 +7,4 @@
 - [jquery弹性手风琴(导航菜单)效果](http://www.oschina.net/code/snippet_999968_20824)
 - [jquery抽屉效果](http://www.16code.com/jquery-slide-pushmenus/)
 - [jQuery Mobile html5WebAppHTML5离线缓存](http://kayosite.com/web-app-by-jquery-mobile-and-html5-offline-web-applications.html)
+- [jquery mobile](http://demos.jquerymobile.com/1.4.0/button/)
