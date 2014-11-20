@@ -52,6 +52,12 @@
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/study/server.md)
   
+- **效率工具**
+
+  > prezi等
+   
+  > [点击进入](https://github.com/mingren135/infos/tree/master/study/tool.md)
+  
 ### 公司相关
 
 ------
