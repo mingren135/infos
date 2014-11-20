@@ -4,4 +4,6 @@
 - [jdk下载地址](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - [openJdk源码下载](https://jdk7.java.net/source.html)
 - [移动开发必备！15款jQuery Mobile插件](http://www.csdn.net/article/2013-11-22/2817596-15-jquery-mobile-plugins-for-mobile-dev)
-
+- [jquery弹性手风琴(导航菜单)效果](http://www.oschina.net/code/snippet_999968_20824)
+- [jquery抽屉效果](http://www.16code.com/jquery-slide-pushmenus/)
+- [jQuery Mobile html5WebAppHTML5离线缓存](http://kayosite.com/web-app-by-jquery-mobile-and-html5-offline-web-applications.html)
