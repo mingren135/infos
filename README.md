@@ -40,6 +40,12 @@
    
   > [点击进入](https://github.com/mingren135/infos/tree/master/study/hack.md)
   
+- **server学习**
+
+  > spring、ibatis等
+   
+  > [点击进入](https://github.com/mingren135/infos/tree/master/study/server.md)
+  
 ### 公司相关
 
 ------
