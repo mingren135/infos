@@ -1,1 +1,3 @@
 - [RadioWar研究项目，ACR122U等](http://wiki.radiowar.org/%E9%A6%96%E9%A1%B5)
+- [空虚浪子心的灵魂 博客](http://www.inbreak.net/page/4)
+- [http://evilcos.me/ 博客](http://evilcos.me/)
